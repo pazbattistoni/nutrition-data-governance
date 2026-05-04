@@ -1,1 +1,1 @@
-Este es un reducido proyecto con alta escalabilidad basado en analizar y proporcionar informacion correcta, ordenada y en el momento presiciso en el cual sea requerida sobre alimu¿entos, sus componentes nutricionale, recetas relacionadas etc.
+Este es un reducido proyecto con alta escalabilidad basado en analizar y proporcionar informacion correcta, ordenada y en el momento presiciso en el cual sea requerida sobre alimentos, sus componentes nutricionale, recetas relacionadas etc.
